@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "eslint-config-react-app": "6.0.0",
-    "hast-util-heading": "1.0.5"
+    "hast-util-heading": "2.0.0"
   },
   "resolutions": {
     "graphql": "^15.4.0",
